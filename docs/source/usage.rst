@@ -1,5 +1,6 @@
 Usage
 =====
+Instructions for using Lumache.
 
 .. _installation:
 
